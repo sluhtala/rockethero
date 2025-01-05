@@ -9,6 +9,10 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^5.1.2"
-  }
+    "@types/p5": "^1.7.6",
+    "astro": "^5.1.2",
+    "keycode": "^2.2.1",
+    "p5": "^1.11.2"
+  },
+  "devDependencies": { "@types/p5": "^1.7.6" }
 }
